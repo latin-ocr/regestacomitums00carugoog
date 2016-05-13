@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./regestacomitums00carugoog_0395.png"; bbox 0 0 4102 6200; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 627 2653 684 3292">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 627 2653 684 3292">
+     <span class='ocr_line' id='line_1_1' title="bbox 627 2653 684 3292; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 627 2653 684 3292; x_wconf 52' lang='grc' dir='ltr'>επις-ιμ’,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 727 1839 812 4113">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 727 1839 812 4113">
+     <span class='ocr_line' id='line_1_2' title="bbox 727 1839 812 4113; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 747 3696 790 4113; x_wconf 68' lang='lat' dir='ltr'><strong>Comitum</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 727 3136 812 3634; x_wconf 39' lang='lat' dir='ltr'>sabaudiae.</span> <span class='ocrx_word' id='word_1_4' title='bbox 752 2823 809 3082; x_wconf 75' lang='lat' dir='ltr'>us&#39;que</span> <span class='ocrx_word' id='word_1_5' title='bbox 733 2660 799 2766; x_wconf 61' lang='lat' dir='ltr'>&lt;acl</span> <span class='ocrx_word' id='word_1_6' title='bbox 772 2279 800 2598; x_wconf 77' lang='lat' dir='ltr'>annum</span> <span class='ocrx_word' id='word_1_7' title='bbox 761 1839 803 2208; x_wconf 73' lang='lat' dir='ltr'>mccl-ln</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1063 2276 1094 2672">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1063 2276 1094 2672">
+     <span class='ocr_line' id='line_1_3' title="bbox 1063 2276 1094 2672; textangle 90"><span class='ocrx_word' id='word_1_8' title='bbox 1063 2423 1086 2672; x_wconf 63' lang='lat' dir='ltr'>Umber-anae</span> <span class='ocrx_word' id='word_1_9' title='bbox 1064 2276 1094 2400; x_wconf 57' lang='lat' dir='ltr'>(vm)</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2056 6196">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2056 6196">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2056 6196; textangle 90"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 2056 6196; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

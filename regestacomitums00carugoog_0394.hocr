@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./regestacomitums00carugoog_0394.png"; bbox 0 0 4102 6200; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 302 2115 1165 2293">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 302 2065 1312 2293">
+     <span class='ocr_line' id='line_1_1' title="bbox 302 2115 1165 2293; baseline 0.004 -28"><span class='ocrx_word' id='word_1_1' title='bbox 302 2190 306 2293; x_wconf 72' lang='lat'><em>÷</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 511 2115 1165 2268; x_wconf 79' lang='lat' dir='ltr'><strong>APPENDIX</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 93 2733 1583 2842">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 93 2733 1583 2842">
+     <span class='ocr_line' id='line_1_2' title="bbox 93 2733 1583 2842; baseline 0.003 -18"><span class='ocrx_word' id='word_1_3' title='bbox 93 2733 364 2827; x_wconf 82' lang='lat' dir='ltr'><strong>STEMMATA</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 395 2735 678 2832; x_wconf 79' lang='lat' dir='ltr'>SABAUDIAE</span> <span class='ocrx_word' id='word_1_5' title='bbox 708 2735 934 2830; x_wconf 72' lang='lat' dir='ltr'><strong>GOMITUM</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 967 2735 1299 2829; x_wconf 73' lang='lat' dir='ltr'><strong>MARcffloNUn</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1332 2735 1583 2842; x_wconf 77' lang='lat' dir='ltr'>IN²¹1TALIA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 261 3137 1348 3272">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 261 3117 1417 3302">
+     <span class='ocr_line' id='line_1_3' title="bbox 261 3137 1348 3272; baseline 0.003 -15"><span class='ocrx_word' id='word_1_8' title='bbox 261 3137 531 3272; x_wconf 55' lang='lat' dir='ltr'><strong>JGENTIS</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 568 3175 927 3259; x_wconf 68' lang='lat' dir='ltr'><strong>ARDOINIOAE</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 964 3177 1348 3261; x_wconf 71' lang='lat' dir='ltr'><strong>TAUfflNENsls</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2056 6196">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2056 6196">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2056 6196; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 2056 6196; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
